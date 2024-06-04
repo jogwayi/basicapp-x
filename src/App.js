@@ -10,7 +10,7 @@ function App() {
           Triggered by hooks and updated from the folk
         </p>
         <p>
-          <img src="logo.svg" width="200px"/>
+          <img src="logo192.png" width="200px"/>
         </p>
         <a
           className="App-link"
