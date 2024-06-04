@@ -10,7 +10,7 @@ function App() {
           Triggered by hooks and updated from the folk
         </p>
         <p>
-          Whooped milk whoop!
+          <img src="logo.svg" width="200px"/>
         </p>
         <a
           className="App-link"
