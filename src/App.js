@@ -9,6 +9,9 @@ function App() {
         <p>
           Triggered by hooks and updated from the folk
         </p>
+        <p>
+          Whoop whoop!
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
