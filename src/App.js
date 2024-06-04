@@ -5,9 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+         <h1>Just want my own stuff</h1>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Triggered by hooks
         </p>
         <a
           className="App-link"
