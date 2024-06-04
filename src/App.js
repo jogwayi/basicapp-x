@@ -10,7 +10,7 @@ function App() {
           Triggered by hooks and updated from the folk
         </p>
         <p>
-          Whoop whoop!
+          Whooped milk whoop!
         </p>
         <a
           className="App-link"
