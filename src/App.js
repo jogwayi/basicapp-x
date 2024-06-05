@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
          <h1>Just want my own stuff</h1>
         <p>
-          Triggered by hooks and updated from the folk
+          Triggered by hooks
         </p>
         <p>
           <img src="logo192.png" width="200px"/>
