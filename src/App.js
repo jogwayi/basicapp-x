@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-         <h1>Just want my own stuff</h1>
+         <h1>Row your boat</h1>
         <p>
           Triggered by hooks and updated from the folk
         </p>
